@@ -1,0 +1,2 @@
+Banjo uses the VLC media libraries (libvlc, libvlccore, plugins), © VideoLAN. Licensed under the LGPL v2.1+.
+https://www.videolan.org/
